@@ -10,5 +10,7 @@ build:
     - pdf2image
     - Pillow
     - pytesseract
+    - transformers
+
 
 predict: "predict.py:Predictor"
